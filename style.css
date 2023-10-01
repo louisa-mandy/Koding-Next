@@ -1,0 +1,14 @@
+.box1{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+	height: auto;
+	display: block;
+	text-align: center;
+	background-color:white ;
+	color: #CA92DE ;
+	border-style:solid ;
+    margin: 20px auto;
+
+
+}
